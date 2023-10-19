@@ -1,0 +1,21 @@
+{
+  "cSpell.words": ["Offcanvas"],
+  "editor.tabCompletion": "on",
+  "editor.tabSize": 2,
+  "editor.trimAutoWhitespace": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+      "source.organizeImports": false,
+      "source.fixAll.eslint": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+  "typescript.preferences.quoteStyle": "single",
+  "eslint.format.enable": true,
+  "jest.coverageFormatter": "GutterFormatter",
+  "[css]": {
+      "editor.defaultFormatter": "vscode.css-language-features"
+  },
+}
